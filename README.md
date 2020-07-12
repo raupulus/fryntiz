@@ -39,7 +39,7 @@ Algunos de los que les dedico más tiempo últimamente son:
 
 <br />
 
-<a href="https://github.com/fryntiz/laravel-skeleton">
+<a href="https://gitlab.com/fryntiz/laravel-skeleton">
     Estructura base laravel para web y api con mi propio panel para administrador.
 </a>
 
@@ -51,31 +51,31 @@ Algunos de los que les dedico más tiempo últimamente son:
 
 <br />
 
-<a href="https://github.com/fryntiz/api-fryntiz">
+<a href="https://gitlab.com/fryntiz/api-fryntiz">
     Api para centralizar mis proyectos
 </a>
 
 <br />
 
-<a href="https://github.com/fryntiz/www.fryntiz.es">
+<a href="https://gitlab.com/fryntiz/www.fryntiz.es">
     Renovar mis anticuadas webs con información personal.
 </a>
 
 <br />
 
-<a href="https://github.com/fryntiz/raspberry-weather-station">
+<a href="https://gitlab.com/fryntiz/raspberry-weather-station">
     Estación Meteorológica para raspberry con todos los sensores posibles.
 </a>
 
 <br />
 
-<a href="https://github.com/fryntiz/www.odin.fryntiz.dev">
+<a href="https://gitlab.com/fryntiz/www.odin.fryntiz.dev">
     Portal para mi nuevo VPS
 </a>
 
 <br />
 
-<a href="https://github.com/fryntiz/python-keycounter">
+<a href="https://gitlab.com/fryntiz/python-keycounter">
     Contador de teclas pulsadas por cada dispositivo.
 </a>
 
