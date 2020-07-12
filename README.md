@@ -1,25 +1,10 @@
-# [![Raúl Caro Pastorino](https://raw.githubusercontent.com/fryntiz/fryntiz/main/images/bannner.png)](https://fryntiz.es)
+# [![Raúl Caro Pastorino](https://raw.githubusercontent.com/fryntiz/fryntiz/master/images/banner.png)](https://fryntiz.es)
 
 <p align='center'>
-    <a href="https://fryntiz.es">
-        <img height="30" src="https://raw.githubusercontent.com/fryntiz/fryntiz/main/icons/dev.png" />
-    </a>
-    
-    &nbsp;&nbsp;
-
-    <a href="https://twitter.com/fryntiz">
-        <img height="30" src="https://github.com/fryntiz/fryntiz/blob/main/icons/twitter.png?raw=true" />
-    </a>
-
-    &nbsp;&nbsp;
-
-    <a href="https://www.buymeacoffee.com/fryntiz">
-        <img height="30" src="https://github.com/fryntiz/fryntiz/blob/main/icons/by-me-a-coffee.png?raw=true" />
-    </a>
-
-    <a href="https://www.linkedin.com/in/fryntiz/">
-        <img height="30" src="https://github.com/fryntiz/fryntiz/blob/main/icons/linkedin.png?raw=true" />
-    </a>
+<a href="https://fryntiz.es"><img height="30" src="https://raw.githubusercontent.com/fryntiz/fryntiz/master/icons/dev.png?raw=true" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/fryntiz"><img height="30" src="https://raw.githubusercontent.com/fryntiz/fryntiz/master/icons/twitter.png?raw=true" /></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/fryntiz"><img height="30" src="https://raw.githubusercontent.com/fryntiz/fryntiz/master/icons/by-me-a-coffee.png?raw=true" /></a>
+<a href="https://www.linkedin.com/in/raulcaropastorino/"><img height="30" src="https://raw.githubusercontent.com/fryntiz/fryntiz/master/icons/linkedin.png?raw=true" /></a>
 </p>
 
 ### Sobre Mi
@@ -55,13 +40,13 @@ Algunos de los que les dedico más tiempo últimamente son:
 <br />
 
 <a href="https://github.com/fryntiz/laravel-skeleton">
-    Estructura base **laravel** para web y api con mi propio panel para administrador.
+    Estructura base laravel para web y api con mi propio panel para administrador.
 </a>
 
 <br />
 
 <a href="https://github.com/fryntiz/debian-developer-conf">
-    Script en **bash** para configurar sistemas linux como Debian, Fedora, Gentoo, Raspbian.
+    Script en bash para configurar sistemas linux como Debian, Fedora, Gentoo, Raspbian.
 </a>
 
 <br />
